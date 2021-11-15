@@ -1,5 +1,7 @@
 # Crash Course AI Labs
 
+[YouTube playlist link](https://youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b).
+
 Example: https://www.youtube.com/watch?v=6nGCGYWMObE
 
 1. https://github.com/crash-course-ai/lab1-neural-networks
@@ -9,6 +11,8 @@ Example: https://www.youtube.com/watch?v=6nGCGYWMObE
 2. https://github.com/crash-course-ai/lab2-nlp
 
    - [NLP colab](https://colab.research.google.com/drive/1f8ik5kSPEvDCcM7R_-Wb3AjifizVEsHD)
+
+   - https://youtu.be/kZWum5omEv4
 
 3. https://github.com/crash-course-ai/lab3-games (or https://github.com/hchiam/lab3-games)
 
