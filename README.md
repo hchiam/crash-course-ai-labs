@@ -16,7 +16,7 @@ Example: https://www.youtube.com/watch?v=6nGCGYWMObE
 
 3. https://github.com/crash-course-ai/lab3-games (or https://github.com/hchiam/lab3-games)
 
-   - [game colab](https://colab.research.google.com/drive/1uYXTDeBbPeuJfM1teufZ9nUaiRIN9nHW)
+   - [game colab](https://colab.research.google.com/drive/1uYXTDeBbPeuJfM1teufZ9nUaiRIN9nHW) - uses a Genetic Algorithm, AKA a GA - the key is the fitness function: `self.playTime*1 + self.hits*10 + self.blasts*-2`, but using a GA might not scale well to larger neural networks and problems with many dimensions
 
 4. https://github.com/crash-course-ai/lab4-recommender-systems
 
