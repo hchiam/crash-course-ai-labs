@@ -21,3 +21,7 @@ Example: https://www.youtube.com/watch?v=6nGCGYWMObE
 4. https://github.com/crash-course-ai/lab4-recommender-systems
 
    - [recommender colab](https://colab.research.google.com/drive/1-v9cw18wTDjaCUlECKHsQnHeisLKyG8U)
+
+5. https://youtu.be/_DZJV9ey1nE
+
+   - [colab](https://colab.research.google.com/drive/1N5IdMTmiNbwEOD8dqammN8GAfpk41arw)
