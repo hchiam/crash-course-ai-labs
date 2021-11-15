@@ -24,4 +24,4 @@ Example: https://www.youtube.com/watch?v=6nGCGYWMObE
 
 5. https://youtu.be/_DZJV9ey1nE
 
-   - [colab](https://colab.research.google.com/drive/1N5IdMTmiNbwEOD8dqammN8GAfpk41arw)
+   - [algorithmic bias colab](https://colab.research.google.com/drive/1N5IdMTmiNbwEOD8dqammN8GAfpk41arw)
